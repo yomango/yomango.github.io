@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{104:function(o){o.exports=JSON.parse('{"allTagsPath":"/yomango.github.io/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/yomango.github.io/blog/tags/docusaurus"}')}}]);
