@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{113:function(o){o.exports=JSON.parse('{"allTagsPath":"/yomango.github.io/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/yomango.github.io/blog/tags/hola"}')}}]);
